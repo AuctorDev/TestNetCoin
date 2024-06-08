@@ -1,3 +1,5 @@
+### TestnetCoin does not currenly have source code, mainly cos its a walletbuilder free coin, but hey it works
+
 # TestNetCoin (TST)
 
 TestNetCoin (TST) is a test cryptocurrency designed for educational purposes and blockchain development testing. This coin is not intended to be listed on any exchange and should be used solely in a testnet environment.
@@ -32,12 +34,12 @@ The wallet for TestNetCoin is built using the free option provided by WalletBuil
 To add nodes to your TestNetCoin wallet, use the following format in your configuration file:
 
 addnode=xxx.xxx.xxx.xxx
-addnode=xxx.xxx.xxx.xxx
-addnode=xxx.xxx.xxx.xxx
+
 addnode=xxx.xxx.xxx.xxx
 
+addnode=xxx.xxx.xxx.xxx
 
-Replace `xxx.xxx.xxx.xxx` with the actual IP addresses of the nodes you wish to connect to.
+addnode=xxx.xxx.xxx.xxx
 
 ## License
 
